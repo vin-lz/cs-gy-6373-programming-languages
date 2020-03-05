@@ -1,5 +1,5 @@
 (define ans '())
-(define (hw l1 l2)
+(define (func l1 l2)
   (define b1 (list-copy l1))
   (define b2 (list-copy l2))
   (set! ans '())
